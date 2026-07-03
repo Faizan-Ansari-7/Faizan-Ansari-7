@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- HEADER: Your Animated SVG Banner -->
+<!-- HEADER: Animated SVG Banner -->
 <img src="banner.svg" alt="Animated Banner" width="100%">
 
 <br><br>
 
 <p align="center">
   I am a Computer Science Engineering student at LJ University specializing in building robust software, responsive web interfaces, and complex database architectures. I focus on bridging the gap between hardcore backend logic and flawless frontend design.
-</p>
-<p align="center">
-  🌱 <b>Currently focused on:</b> Mastering Full Stack Development (FSD) architecture & advanced database management.<br>
-  💡 <b>Actively building:</b> Python-based data visualization dashboards and seamless UI/UX interfaces.
 </p>
 
 <!-- Social Links -->
@@ -19,30 +15,33 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- Clean Glowing SVG Divider -->
+<!-- Thick Glowing Divider -->
 <img src="divider.svg" width="100%">
 
 ### 🛠️ Tech Stack & Arsenal
 
-<b>Frontend Development</b><br>
+<b>💻 Frontend Development</b><br>
+<p><i>Building responsive, pixel-perfect UI/UX interfaces.</i></p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=10" />
 </a>
 <br><br>
 
-<b>Backend & Databases</b><br>
+<b>⚙️ Backend & Databases</b><br>
+<p><i>Architecting scalable APIs and secure data flows.</i></p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
 </a>
 <br><br>
 
-<b>Python Ecosystem</b><br>
+<b>🐍 Python Ecosystem</b><br>
+<p><i>Automating tasks and building data-driven web apps.</i></p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,django&perline=10" />
 </a>
 <br>
 
-<!-- Clean Glowing SVG Divider -->
+<!-- Thick Glowing Divider -->
 <img src="divider.svg" width="100%">
 
 ### 🏆 Open to Hackathons & Collaborations
@@ -51,19 +50,18 @@
   Always down to build cool things under pressure! I'm actively looking for hackathon teams and open-source collaborations. Whether it's spinning up a quick React frontend or architecting a Django/PostgreSQL backend, let's combine our stacks and ship something massive. 🚀
 </p>
 
-<!-- Clean Glowing SVG Divider -->
+<!-- Thick Glowing Divider -->
 <img src="divider.svg" width="100%">
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- Highly Reliable Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ansari-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- Top Languages (Simplified link to avoid timeout errors) -->
+  <!-- CHANGE YOUR_ACTUAL_GITHUB_USERNAME BELOW -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ansari-7&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
 </p>
 
-<!-- Clean Glowing SVG Divider -->
+<!-- Thick Glowing Divider -->
 <img src="divider.svg" width="100%">
 
 ### 🚀 Featured Engineering Projects
@@ -83,7 +81,7 @@
 
 <br>
 
-<!-- FOOTER: Your Animated SVG Footer -->
+<!-- FOOTER: Animated SVG Footer -->
 <img src="footer.svg" alt="Animated Footer" width="100%">
 
 </div>
