@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- HEADER: Your Animated SVG Banner -->
 <img src="banner.svg" alt="Animated Banner" width="100%">
 
 <br><br>
@@ -8,12 +9,14 @@
   I am a Computer Science Engineering student at LJ University specializing in building robust software, responsive web interfaces, and complex database architectures. I focus on bridging the gap between hardcore backend logic and flawless frontend design.
 </p>
 
+<!-- Social Links -->
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:faizanalam2596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/faizanalam-ansari-592b4b380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:faizanop250@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Glowing Animated RGB Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🛠️ Tech Stack & Arsenal
 
@@ -35,7 +38,8 @@
 </a>
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Glowing Animated RGB Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🏆 Open to Hackathons & Collaborations
 
@@ -43,16 +47,19 @@
   Always down to build cool things under pressure! I'm actively looking for hackathon teams and open-source collaborations. Whether it's spinning up a quick React frontend or architecting a Django/PostgreSQL backend, let's combine our stacks and ship something massive. 🚀
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Glowing Animated RGB Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Ansari-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <!-- Fixed GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Ansari-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Glowing Animated RGB Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 Featured Engineering Projects
 
@@ -71,12 +78,14 @@
 
 <br>
 
+<!-- FOOTER: Your Animated SVG Footer -->
 <img src="footer.svg" alt="Animated Footer" width="100%">
 
 <br><br>
 
+<!-- Reliable Profile View Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Faizan-Ansari-7/bg.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Faizan-Ansari-7&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
