@@ -57,11 +57,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ansari-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <!-- Top Languages (Simplified link to avoid timeout errors) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
-
-<!-- Clean Glowing SVG Divider -->
-<img src="divider.svg" width="100%">
 
 <!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%">
