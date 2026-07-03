@@ -8,6 +8,10 @@
 <p align="center">
   I am a Computer Science Engineering student at LJ University specializing in building robust software, responsive web interfaces, and complex database architectures. I focus on bridging the gap between hardcore backend logic and flawless frontend design.
 </p>
+<p align="center">
+  🌱 <b>Currently focused on:</b> Mastering Full Stack Development (FSD) architecture & advanced database management.<br>
+  💡 <b>Actively building:</b> Python-based data visualization dashboards and seamless UI/UX interfaces.
+</p>
 
 <!-- Social Links -->
 <p align="center">
