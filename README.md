@@ -11,12 +11,12 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/faizanalam-ansari-592b4b380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:faizanop250@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- Glowing Animated RGB Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Glowing SVG Divider -->
+<img src="divider.svg" width="100%">
 
 ### 🛠️ Tech Stack & Arsenal
 
@@ -38,8 +38,8 @@
 </a>
 <br>
 
-<!-- Glowing Animated RGB Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Glowing SVG Divider -->
+<img src="divider.svg" width="100%">
 
 ### 🏆 Open to Hackathons & Collaborations
 
@@ -47,19 +47,19 @@
   Always down to build cool things under pressure! I'm actively looking for hackathon teams and open-source collaborations. Whether it's spinning up a quick React frontend or architecting a Django/PostgreSQL backend, let's combine our stacks and ship something massive. 🚀
 </p>
 
-<!-- Glowing Animated RGB Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Glowing SVG Divider -->
+<img src="divider.svg" width="100%">
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- Fixed GitHub Stats -->
+  <!-- CHANGE THE USERNAMES IN THESE TWO LINKS -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Ansari-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-<!-- Glowing Animated RGB Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Glowing SVG Divider -->
+<img src="divider.svg" width="100%">
 
 ### 🚀 Featured Engineering Projects
 
@@ -80,12 +80,5 @@
 
 <!-- FOOTER: Your Animated SVG Footer -->
 <img src="footer.svg" alt="Animated Footer" width="100%">
-
-<br><br>
-
-<!-- Reliable Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faizan-Ansari-7&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
 
 </div>
