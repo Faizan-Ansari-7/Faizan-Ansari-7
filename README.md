@@ -17,9 +17,9 @@
   📊 <b>Data & Python:</b> Building data-driven dashboards using Pandas, NumPy & Scikit-Learn.
 </p>
 
-<!-- HACKER STYLE ONE-BY-ONE TYPING ANIMATION -->
+<!-- HACKER STYLE ONE-BY-ONE TYPING ANIMATION (GREEN & RED) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=3000&color=00FFFF&center=true&width=800&lines=%3E_+Currently+focused+on:+Mastering+FSD+and+Database+Management;%3E_+Actively+building:+Python+Data+Dashboards+and+UI-UX" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=3000&color=00FF00;FF0000&center=true&width=800&lines=%3E_+Currently+focused+on:+Mastering+FSD+and+Database+Management;%3E_+Actively+building:+Python+Data+Dashboards+and+UI-UX" alt="Typing Intro" />
 </p>
 
 <!-- Social Links -->
