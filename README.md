@@ -53,10 +53,15 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- CHANGE THE USERNAMES IN THESE TWO LINKS -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Ansari-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <!-- Highly Reliable Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ansari-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Top Languages (Simplified link to avoid timeout errors) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+
+<!-- Clean Glowing SVG Divider -->
+<img src="divider.svg" width="100%">
 
 <!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%">
