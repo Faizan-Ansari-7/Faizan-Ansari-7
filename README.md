@@ -19,21 +19,21 @@
 
 <img src="divider.svg" width="100%" height="3">
 
-### 🛠️ Tech Stack & Arsenal
+<h2> 🛠️ Tech Stack & Arsenal </h2>
 
-<h3>💻 Frontend Development 💻</h3>
+<h5>💻 Frontend Development 💻</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=10" />
 </a>
 <br><br>
 
-<h3>⚙️ Backend & Databases ⚙️</h3>
+<h5>⚙️ Backend & Databases ⚙️</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
 </a>
 <br><br>
 
-<h3>🐍 Python Ecosystem 🐍</h3>
+<h5>🐍 Python Ecosystem 🐍</h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,django&perline=10" />
 </a>
