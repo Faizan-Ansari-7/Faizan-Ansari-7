@@ -5,8 +5,16 @@
 
 <br><br>
 
+<!-- POINT-WISE ABOUT ME -->
 <p align="center">
-  I am a Computer Science Engineering student at LJ University specializing in building robust software, responsive web interfaces, and complex database architectures. I focus on bridging the gap between hardcore backend logic and flawless frontend design.
+  <b>🎓 Computer Science Engineering Student @ LJ University</b><br>
+  <i>Bridging the gap between hardcore backend logic and flawless frontend design.</i>
+</p>
+
+<p align="center">
+  💻 <b>Frontend:</b> Crafting responsive, pixel-perfect UI/UX with React & Tailwind.<br>
+  ⚙️ <b>Backend:</b> Architecting robust APIs & scalable databases with Node.js & PostgreSQL.<br>
+  📊 <b>Data & Python:</b> Building data-driven dashboards using Pandas, NumPy & Scikit-Learn.
 </p>
 
 <!-- HACKER STYLE ONE-BY-ONE TYPING ANIMATION -->
@@ -55,7 +63,10 @@
 ### 🏆 Open to Hackathons & Collaborations
 
 <p align="center">
-  Always down to build cool things under pressure! I'm actively looking for hackathon teams and open-source collaborations. Whether it's spinning up a quick React frontend or architecting a Django/PostgreSQL backend, let's combine our stacks and ship something massive. 🚀
+  ⏱️ <b>Under Pressure:</b> Always down to brainstorm and build cool products in hackathons.<br>
+  🤝 <b>Open Source:</b> Actively looking to contribute and collaborate on innovative projects.<br>
+  ⚡ <b>Team Synergy:</b> Ready to spin up React frontends or architect Django/PostgreSQL backends.<br>
+  🚀 <b>Goal:</b> Let's combine our tech stacks and ship something massive!
 </p>
 
 <!-- Clean Glowing SVG Divider -->
