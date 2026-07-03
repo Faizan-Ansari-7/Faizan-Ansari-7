@@ -19,7 +19,7 @@
 
 <img src="divider.svg" width="100%" height="3">
 
-<h2> 🛠️ Tech Stack & Arsenal </h2>
+## 🛠️ Tech Stack & Arsenal 
 
 <h5>💻 Frontend Development 💻</h5>
 <a href="https://skillicons.dev">
