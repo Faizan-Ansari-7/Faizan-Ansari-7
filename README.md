@@ -8,35 +8,31 @@
 <p align="center">
   I am a Computer Science Engineering student at LJ University specializing in building robust software, responsive web interfaces, and complex database architectures. I focus on bridging the gap between hardcore backend logic and flawless frontend design.
 </p>
-<p align="center">
-  🌱 <b>Currently focused on:</b> Mastering Full Stack Development (FSD) architecture & advanced database management.<br>
-  💡 <b>Actively building:</b> Python-based data visualization dashboards and seamless UI/UX interfaces.
-</p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/faizanalam-ansari-592b4b380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:faizanalam2596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <!-- Clean Glowing SVG Divider -->
-<img src="divider.svg">
+<img src="divider.svg" width="100%">
 
 ### 🛠️ Tech Stack & Arsenal
 
-<b>💻 Frontend Development 💻</b><br><br>
+<b>Frontend Development</b><br><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=10" />
 </a>
 <br><br>
 
-<b>⚙️ Backend & Databases ⚙️</b><br><br>
+<b>Backend & Databases</b><br><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
 </a>
 <br><br>
 
-<b>🐍 Python Ecosystem 🐍</b><br><br>
+<b>Python Ecosystem</b><br><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,django&perline=10" />
 </a>
@@ -58,7 +54,9 @@
 
 <p align="center">
   <!-- CHANGE THE USERNAMES IN THESE TWO LINKS -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Ansari-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
 <!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%">
