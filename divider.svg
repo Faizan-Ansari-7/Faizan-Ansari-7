@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 10" width="100%" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 800 10" preserveAspectRatio="none">
   <defs>
+    <!-- RGB Gradient -->
     <linearGradient id="rgb-glow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%">
         <animate attributeName="stop-color" values="#00ffff;#ff00ff;#ffff00;#00ffff" dur="5s" repeatCount="indefinite" />
@@ -9,11 +10,13 @@
       </stop>
     </linearGradient>
     
+    <!-- Thin Glow Filter -->
     <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
   </defs>
   
-  <rect x="0" y="4" width="100%" height="3" fill="url(#rgb-glow)" filter="url(#glow)" rx="1" />
+  <!-- Strict 3px Height Line -->
+  <rect x="0" y="3" width="100%" height="3" fill="url(#rgb-glow)" filter="url(#glow)" rx="1.5" />
 </svg>
