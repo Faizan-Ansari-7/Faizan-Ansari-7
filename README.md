@@ -20,7 +20,7 @@
 </p>
 
 <!-- Clean Glowing SVG Divider -->
-<img src="divider.svg" width="100%">
+<img src="divider.svg">
 
 ### 🛠️ Tech Stack & Arsenal
 
