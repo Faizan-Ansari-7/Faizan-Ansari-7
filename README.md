@@ -13,26 +13,46 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Stack & Arsenal
+
+<b>Frontend Development</b><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=10" />
+</a>
+<br><br>
+
+<b>Backend & Databases</b><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=10" />
+</a>
+<br><br>
+
+<b>Python Ecosystem</b><br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django&perline=10" />
+</a>
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 🏆 Open to Hackathons & Collaborations
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,react,nodejs,express,mongodb,postgres,tailwind&perline=6" />
-  </a>
+  Always down to build cool things under pressure! I'm actively looking for hackathon teams and open-source collaborations. Whether it's spinning up a quick React frontend or architecting a Django/PostgreSQL backend, let's combine our stacks and ship something massive. 🚀
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-Ansari-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🚀 Featured Engineering Projects
 
@@ -47,12 +67,6 @@
       <p align="center">A high-performance frontend project built purely with <b>HTML, CSS, JavaScript,</b> and <b>Bootstrap 5</b> for responsive UI/UX.</p>
     </td>
   </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🚦 Traffic Signal Controller</h3>
-      <p align="center">A hardware engineering project featuring NE555 timers, 7474 D Flip-Flops, and logic gates to demonstrate fundamental digital electronics principles.</p>
-    </td>
-  </tr>
 </table>
 
 <br>
@@ -62,7 +76,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/bg.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Faizan-Ansari-7/bg.svg" alt="Profile Views" />
 </p>
 
 </div>
