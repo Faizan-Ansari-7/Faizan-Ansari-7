@@ -1,21 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 15" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 10" width="100%" preserveAspectRatio="none">
   <defs>
-    <!-- RGB Gradient -->
     <linearGradient id="rgb-glow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%">
-        <animate attributeName="stop-color" values="#00ffff;#ff00ff;#ffff00;#00ffff" dur="8s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#00ffff;#ff00ff;#ffff00;#00ffff" dur="5s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%">
-        <animate attributeName="stop-color" values="#ff00ff;#ffff00;#00ffff;#ff00ff" dur="8s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#ff00ff;#ffff00;#00ffff;#ff00ff" dur="5s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
     
-    <!-- Soft Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00ffff" flood-opacity="0.6"/>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
   </defs>
   
-  <!-- The Glowing Line -->
-  <rect x="5%" y="5" width="90%" height="3" fill="url(#rgb-glow)" filter="url(#glow)" rx="1" />
+  <rect x="0" y="4" width="100%" height="3" fill="url(#rgb-glow)" filter="url(#glow)" rx="1" />
 </svg>
