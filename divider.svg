@@ -17,5 +17,5 @@
   </defs>
   
   <!-- The Glowing Line -->
-  <rect x="5%" y="5" width="90%" height="4" fill="url(#rgb-glow)" filter="url(#glow)" rx="1" />
+  <rect x="5%" y="5" width="90%" height="3" fill="url(#rgb-glow)" filter="url(#glow)" rx="1" />
 </svg>
