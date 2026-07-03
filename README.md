@@ -1,9 +1,11 @@
 <div align="center">
 
+<!-- HEADER: Your Animated SVG Banner -->
 <img src="banner.svg" alt="Animated Banner" width="100%">
 
 <br><br>
 
+<!-- POINT-WISE ABOUT ME -->
 <p align="center">
   <b>🎓 Computer Science Engineering Student @ LJ University</b><br>
   <i>Bridging the gap between hardcore backend logic and flawless frontend design.</i>
@@ -15,15 +17,18 @@
   📊 <b>Data & Python:</b> Building data-driven dashboards using Pandas, NumPy & Scikit-Learn.
 </p>
 
+<!-- HACKER STYLE ONE-BY-ONE TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=3000&color=00FFFF&center=true&width=800&lines=%3E_+Currently+focused+on:+Mastering+FSD+and+Database+Management;%3E_+Actively+building:+Python+Data+Dashboards+and+UI-UX" alt="Typing Intro" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/faizanalam-ansari-592b4b380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:faizanalam2596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 🛠️ Tech Stack & Arsenal
@@ -45,12 +50,14 @@
   <img src="https://skillicons.dev/icons?i=python,django&perline=10" />
 </a>
 <br><br>
+<!-- Data Science Libraries -->
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <br><br>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 🏆 Open to Hackathons & Collaborations
@@ -62,6 +69,7 @@
   🚀 <b>Goal:</b> Let's combine our tech stacks and ship something massive!
 </p>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 📈 GitHub Analytics
@@ -70,35 +78,38 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ansari-7&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 🚀 Featured Engineering Projects
 
-<table align="center" border="0" width="100%">
+<!-- PROJECTS IN CARD STYLE -->
+<table align="center" border="1" bordercolor="#444444" width="100%" cellpadding="20" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 Car Rental System</h3>
-      <p align="center">A robust, data-driven backend application utilizing <b>Python</b>, <b>PostgreSQL</b>, <b>Streamlit</b>, and <b>Matplotlib</b> for deep data management.</p>
-      <p align="center">
-        <a href="https://github.com/Faizan-Ansari-7/Car-Rental">
-          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
+    <td width="50%" valign="top" align="center">
+      <h2>🚗 Car Rental System</h2>
+      <hr width="60%">
+      <p>A robust, data-driven backend application utilizing <b>Python</b>, <b>PostgreSQL</b>, <b>Streamlit</b>, and <b>Matplotlib</b> for deep data management.</p>
+      <br>
+      <a href="https://github.com/Faizan-Ansari-7/Car-Rental">
+        <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚘 Car Fusion</h3>
-      <p align="center">A high-performance frontend project built purely with <b>HTML, CSS, JavaScript,</b> and <b>Bootstrap 5</b> for responsive UI/UX.</p>
-      <p align="center">
-        <a href="https://github.com/Faizan-Ansari-7/Car-Fusion">
-          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
+    <td width="50%" valign="top" align="center">
+      <h2>🚘 Car Fusion</h2>
+      <hr width="60%">
+      <p>A high-performance frontend project built purely with <b>HTML, CSS, JavaScript,</b> and <b>Bootstrap 5</b> for responsive UI/UX.</p>
+      <br>
+      <a href="https://github.com/Faizan-Ansari-7/Car-Fusion">
+        <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
 
+<!-- FOOTER: Your Animated SVG Footer -->
 <img src="footer.svg" alt="Animated Footer" width="100%">
 
 </div>
