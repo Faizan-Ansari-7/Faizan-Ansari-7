@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- HEADER: Your Animated SVG Banner -->
 <img src="banner.svg" alt="Animated Banner" width="100%">
 
 <br><br>
@@ -8,15 +9,18 @@
   I am a Computer Science Engineering student at LJ University specializing in building robust software, responsive web interfaces, and complex database architectures. I focus on bridging the gap between hardcore backend logic and flawless frontend design.
 </p>
 
+<!-- HACKER STYLE ONE-BY-ONE TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=3000&color=00FFFF&center=true&width=800&lines=%3E_+Currently+focused+on:+Mastering+FSD+and+Database+Management;%3E_+Actively+building:+Python+Data+Dashboards+and+UI-UX" alt="Typing Intro" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/faizanalam-ansari-592b4b380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:faizanalam2596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 🛠️ Tech Stack & Arsenal
@@ -33,12 +37,19 @@
 </a>
 <br><br>
 
-<b>🐍 Python Ecosystem 🐍</b><br><br>
+<b>🐍 Python & Data Science Ecosystem 🐍</b><br><br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,django&perline=10" />
 </a>
-<br>
+<br><br>
+<!-- Data Science Libraries -->
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<br><br>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 🏆 Open to Hackathons & Collaborations
@@ -47,6 +58,7 @@
   Always down to build cool things under pressure! I'm actively looking for hackathon teams and open-source collaborations. Whether it's spinning up a quick React frontend or architecting a Django/PostgreSQL backend, let's combine our stacks and ship something massive. 🚀
 </p>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 📈 GitHub Analytics
@@ -55,6 +67,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-Ansari-7&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Clean Glowing SVG Divider -->
 <img src="divider.svg" width="100%" height="3">
 
 ### 🚀 Featured Engineering Projects
@@ -74,6 +87,7 @@
 
 <br>
 
+<!-- FOOTER: Your Animated SVG Footer -->
 <img src="footer.svg" alt="Animated Footer" width="100%">
 
 </div>
