@@ -7,9 +7,10 @@
 <p align="center">
   I am a Computer Science Engineering student at LJ University specializing in building robust software, responsive web interfaces, and complex database architectures. I focus on bridging the gap between hardcore backend logic and flawless frontend design.
 </p>
+
 <p align="center">
-  🌱 <b>Currently focused on:</b> Mastering Full Stack Development (FSD) architecture & advanced database management.<br>
-  💡 <b>Actively building:</b> Python-based data visualization dashboards and seamless UI/UX interfaces.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=5000&color=00FFFF&center=true&width=800&lines=🌱+Currently+focused+on:+Mastering+FSD+and+advanced+database+management" alt="Typing Focus" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=5000&color=FF00FF&center=true&width=800&lines=💡+Actively+building:+Python+data+dashboards+and+seamless+UI/UX" alt="Typing Building" />
 </p>
 
 <p align="center">
@@ -17,7 +18,7 @@
   <a href="mailto:faizanalam2596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="divider.svg" width="100%">
+<img src="divider.svg" width="100%" height="3">
 
 ### 🛠️ Tech Stack & Arsenal
 
@@ -39,7 +40,7 @@
 </a>
 <br>
 
-<img src="divider.svg" width="100%">
+<img src="divider.svg" width="100%" height="3">
 
 ### 🏆 Open to Hackathons & Collaborations
 
@@ -47,7 +48,7 @@
   Always down to build cool things under pressure! I'm actively looking for hackathon teams and open-source collaborations. Whether it's spinning up a quick React frontend or architecting a Django/PostgreSQL backend, let's combine our stacks and ship something massive. 🚀
 </p>
 
-<img src="divider.svg" width="100%">
+<img src="divider.svg" width="100%" height="3">
 
 ### 📈 GitHub Analytics
 
@@ -56,7 +57,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-Ansari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" />
 </p>
 
-<img src="divider.svg" width="100%">
+<img src="divider.svg" width="100%" height="3">
 
 ### 🚀 Featured Engineering Projects
 
