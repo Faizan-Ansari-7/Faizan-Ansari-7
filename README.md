@@ -104,9 +104,9 @@
         <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
       </a>
     </td>
-    <td width="100%" valign="top" align="center">
+    <td width="60%" valign="top" align="center">
       <h2>🏠 Verixa - Smart Property Decision Platform</h2>
-      <hr width="100%">
+      <hr width="60%">
       <p>This is the platform where a user can actually take a decision to buy any property by visiting our site.</p>
       <br>
       <a href="https://github.com/Zaidmemon5412/Verixa">
