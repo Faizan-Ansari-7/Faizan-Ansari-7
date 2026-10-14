@@ -86,7 +86,7 @@
 <!-- PROJECTS IN CARD STYLE -->
 <table align="center" border="1" bordercolor="#444444" width="100%" cellpadding="20" cellspacing="0">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <h2>🚗 Car Rental System</h2>
       <hr width="60%">
       <p>A robust, data-driven backend application utilizing <b>Python</b>, <b>PostgreSQL</b>, <b>Streamlit</b>, and <b>Matplotlib</b> for deep data management.</p>
@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
       </a>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <h2>🚘 Car Fusion</h2>
       <hr width="60%">
       <p>A high-performance frontend project built purely with <b>HTML, CSS, JavaScript,</b> and <b>Bootstrap 5</b> for responsive UI/UX.</p>
@@ -104,7 +104,7 @@
         <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
       </a>
     </td>
-    <td width="60%" valign="top" align="center">
+    <td width="33.33%" valign="top" align="center">
       <h2>🏠 Verixa - Smart Property Decision Platform</h2>
       <hr width="60%">
       <p>This is the platform where a user can actually take a decision to buy any property by visiting our site.</p>
